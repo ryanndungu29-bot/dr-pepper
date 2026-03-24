@@ -1,0 +1,5 @@
+{
+  "name": "Crimson Fizz - Bold Beverage Brand",
+  "description": "A premium, high-converting website for Crimson Fizz, a global beverage brand featuring bold flavors and energetic lifestyle content.",
+  "requestFramePermissions": ["geolocation"]
+}
